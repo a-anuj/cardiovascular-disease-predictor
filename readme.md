@@ -70,13 +70,8 @@ Here’s how the model works end-to-end:
 
    - Final data is shaped to match training input format.
 
-**Preprocessing while training**
 ![Preprocessing while training](screenshots/prepro_whiletraining.png)
 
----
-
-**Preprocessing while testing**
-![Preprocessing while testing](screenshots/prepro_whilepredict.png)
 
 
 
